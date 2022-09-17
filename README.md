@@ -2,8 +2,8 @@
 
 #### Part 1
 
-The goal of this part is to stylize the basic Vecta Corp. web page using some basic CSS selectors and properties.
+The purpose of this section is to style the basic Vecta Corp. web page with some basic CSS selectors and properties.
 
 #### Part 2
 
-A more refined version of Vecta Corp. is developed in order to use CSS as much as possible. 
+In order to use CSS as much as possible, a more refined version of Vecta Corp. is being developed.
